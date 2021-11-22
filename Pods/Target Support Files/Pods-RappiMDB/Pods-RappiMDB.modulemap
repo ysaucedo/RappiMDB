@@ -1,0 +1,6 @@
+framework module Pods_RappiMDB {
+  umbrella header "Pods-RappiMDB-umbrella.h"
+
+  export *
+  module * { export * }
+}
